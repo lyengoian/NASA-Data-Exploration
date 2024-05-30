@@ -21,3 +21,15 @@ Data Sources
 --------
 [This table](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars) displays all information for confirmed planets and host stars. It contains data on stellar and planetary parameters for known exoplanets. For instance, some of the data in the dataset includes number of stars, number of planets, planet mass, radius, discovery year, and discovery facility. 
 
+App Images
+-----------
+
+Home: <img width="500" alt="image" src="https://github.com/lyengoian/NASA-Data-Exploration/assets/97694867/9f3ec54d-6289-4f66-b3ee-41976ad63729">
+
+List of Stations: <img width="500" alt="image" src="https://github.com/lyengoian/NASA-Data-Exploration/assets/97694867/8f6445e4-f8b8-490a-9d88-2a4f83b1d591">
+
+Avg Mass: <img width="500" alt="image" src="https://github.com/lyengoian/NASA-Data-Exploration/assets/97694867/138db9aa-20cf-4fd4-9673-2a593defb420">
+
+Visualization: <img width="500" alt="image" src="https://github.com/lyengoian/NASA-Data-Exploration/assets/97694867/d0204599-9d55-4ddb-b2fa-8e93710f6baf">
+
+
