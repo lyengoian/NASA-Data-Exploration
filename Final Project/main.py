@@ -1,6 +1,5 @@
 """
 Lilit Yengoian
-ITP 216
 Final Project
 """
 
