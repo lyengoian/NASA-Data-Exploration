@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+    <form action="/masses" method='POST'>
+       <h2>Enter Discovery Facility Name</h2>
+            <input name="text" placeholder="Lick Observatory">
+            <input type= "submit">
+       <h3>List of Available Facilities:</h3>
+
+        {% for facility in df %}
+        <p>
+            <tr>
+            <th style="text-align:left">
+                {{facility}}
+            </th>
+            </tr>
+        </p>
+          {% endfor %}
+    </form>
+
+    </body>
+</html>
